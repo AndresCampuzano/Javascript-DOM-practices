@@ -1,0 +1,40 @@
+body {
+  font-family: system-ui;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.pressMe {
+  border-radius: 15px;
+  border: 1px solid #acacac;
+  background-color: #42cc20;
+}
+
+.pressMeAgain {
+  border-radius: 15px;
+  border: 1px solid #acacac;
+  background-color: #cc2020;
+}
+
+.hide {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+.green {
+  color: #42cc20;
+}
+
+.div--green {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #42cc20;
+}
+
+/* --------- */
